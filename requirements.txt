@@ -1,0 +1,10 @@
+certifi==2025.7.9
+charset-normalizer==3.4.2
+customtkinter==5.2.2
+darkdetect==0.8.0
+idna==3.10
+packaging==25.0
+python-nmap==0.7.1
+requests==2.32.4
+scapy==2.6.1
+urllib3==2.5.0

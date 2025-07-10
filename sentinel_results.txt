@@ -1,0 +1,23 @@
+[✓] Scan started...
+
+[→] Scanning (Port Scanner) → 127.0.0.1
+Port 21: closed
+Port 22: closed
+Port 23: closed
+Port 25: closed
+Port 53: closed
+Port 80: closed
+Port 110: closed
+Port 139: closed
+Port 443: closed
+Port 445: closed
+Port 3389: closed
+
+[✓] Scan completed.
+
+[✓] Scan started...
+
+[→] Scanning (Port Scanner) → 127.0.0.1
+
+[⛔] Stop requested.
+[⛔] Scan aborted by user.
